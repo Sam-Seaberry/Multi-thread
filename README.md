@@ -1,4 +1,4 @@
-# Multi-thread
-simple multithreadding code written in C++ 
+# Safe Multi-threading program
+Bus link access controller using multithreadding code written in C++ 
 
-Assignment from EEEN30052 concurrent systems 
+Using unique thread locks gives the program total safety from deadlock, starvation, and livelock.
